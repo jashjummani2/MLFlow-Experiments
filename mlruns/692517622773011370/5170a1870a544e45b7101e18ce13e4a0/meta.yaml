@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/692517622773011370/5170a1870a544e45b7101e18ce13e4a0/artifacts
+end_time: 1736191318517
+entry_point_name: ''
+experiment_id: '692517622773011370'
+lifecycle_stage: active
+run_id: 5170a1870a544e45b7101e18ce13e4a0
+run_name: melodic-frog-949
+run_uuid: 5170a1870a544e45b7101e18ce13e4a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736191307863
+status: 3
+tags: []
+user_id: jashjummani

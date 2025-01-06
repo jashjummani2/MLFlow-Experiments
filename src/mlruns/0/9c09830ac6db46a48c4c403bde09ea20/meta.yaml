@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/src/mlruns/0/9c09830ac6db46a48c4c403bde09ea20/artifacts
+end_time: 1736174488132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c09830ac6db46a48c4c403bde09ea20
+run_name: upbeat-cod-428
+run_uuid: 9c09830ac6db46a48c4c403bde09ea20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736174487512
+status: 3
+tags: []
+user_id: jashjummani

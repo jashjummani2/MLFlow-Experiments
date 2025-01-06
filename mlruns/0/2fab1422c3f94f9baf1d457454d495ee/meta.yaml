@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2fab1422c3f94f9baf1d457454d495ee/artifacts
+end_time: 1736174756773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fab1422c3f94f9baf1d457454d495ee
+run_name: bright-cod-366
+run_uuid: 2fab1422c3f94f9baf1d457454d495ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736174755992
+status: 3
+tags: []
+user_id: jashjummani

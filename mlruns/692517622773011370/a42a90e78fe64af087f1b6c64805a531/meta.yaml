@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/692517622773011370/a42a90e78fe64af087f1b6c64805a531/artifacts
+end_time: 1736176600667
+entry_point_name: ''
+experiment_id: '692517622773011370'
+lifecycle_stage: active
+run_id: a42a90e78fe64af087f1b6c64805a531
+run_name: gentle-grouse-61
+run_uuid: a42a90e78fe64af087f1b6c64805a531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736176599952
+status: 3
+tags: []
+user_id: jashjummani

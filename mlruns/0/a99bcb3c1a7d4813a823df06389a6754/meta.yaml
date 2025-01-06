@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a99bcb3c1a7d4813a823df06389a6754/artifacts
+end_time: 1736174654524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a99bcb3c1a7d4813a823df06389a6754
+run_name: big-quail-769
+run_uuid: a99bcb3c1a7d4813a823df06389a6754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736174653810
+status: 3
+tags: []
+user_id: jashjummani

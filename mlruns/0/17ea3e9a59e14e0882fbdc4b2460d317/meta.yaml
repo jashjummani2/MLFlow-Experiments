@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/17ea3e9a59e14e0882fbdc4b2460d317/artifacts
+end_time: 1736174614213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17ea3e9a59e14e0882fbdc4b2460d317
+run_name: languid-vole-802
+run_uuid: 17ea3e9a59e14e0882fbdc4b2460d317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736174613607
+status: 4
+tags: []
+user_id: jashjummani
