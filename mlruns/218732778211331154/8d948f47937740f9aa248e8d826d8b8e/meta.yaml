@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/8d948f47937740f9aa248e8d826d8b8e/artifacts
+end_time: 1736234822615
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: 8d948f47937740f9aa248e8d826d8b8e
+run_name: peaceful-frog-659
+run_uuid: 8d948f47937740f9aa248e8d826d8b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234822584
+status: 3
+tags: []
+user_id: jashjummani

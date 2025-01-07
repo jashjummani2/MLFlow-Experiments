@@ -1,0 +1,6 @@
+artifact_location: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154
+creation_time: 1736234700160
+experiment_id: '218732778211331154'
+last_update_time: 1736234700160
+lifecycle_stage: active
+name: brest_cancer-rf-hyptune

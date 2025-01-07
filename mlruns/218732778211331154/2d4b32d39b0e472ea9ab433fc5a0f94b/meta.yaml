@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/2d4b32d39b0e472ea9ab433fc5a0f94b/artifacts
+end_time: 1736234822701
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: 2d4b32d39b0e472ea9ab433fc5a0f94b
+run_name: sincere-cat-364
+run_uuid: 2d4b32d39b0e472ea9ab433fc5a0f94b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234822657
+status: 3
+tags: []
+user_id: jashjummani

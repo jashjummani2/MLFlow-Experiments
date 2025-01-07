@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/46b736b462ee4fab80a9e2a06a6cc61e/artifacts
+end_time: 1736234822970
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: 46b736b462ee4fab80a9e2a06a6cc61e
+run_name: melodic-trout-497
+run_uuid: 46b736b462ee4fab80a9e2a06a6cc61e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234822935
+status: 3
+tags: []
+user_id: jashjummani

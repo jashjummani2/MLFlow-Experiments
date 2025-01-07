@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/bfd3cd79f4774a398030bad2f832add6/artifacts
+end_time: 1736234822890
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: bfd3cd79f4774a398030bad2f832add6
+run_name: stylish-gnat-626
+run_uuid: bfd3cd79f4774a398030bad2f832add6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234822856
+status: 3
+tags: []
+user_id: jashjummani

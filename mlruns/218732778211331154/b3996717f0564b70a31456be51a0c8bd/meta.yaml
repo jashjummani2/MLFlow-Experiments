@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/b3996717f0564b70a31456be51a0c8bd/artifacts
+end_time: 1736234822649
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: b3996717f0564b70a31456be51a0c8bd
+run_name: redolent-perch-437
+run_uuid: b3996717f0564b70a31456be51a0c8bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234822620
+status: 3
+tags: []
+user_id: jashjummani

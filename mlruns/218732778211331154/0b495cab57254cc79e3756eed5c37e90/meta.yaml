@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/0b495cab57254cc79e3756eed5c37e90/artifacts
+end_time: 1736234715256
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: 0b495cab57254cc79e3756eed5c37e90
+run_name: magnificent-wolf-257
+run_uuid: 0b495cab57254cc79e3756eed5c37e90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234701549
+status: 4
+tags: []
+user_id: jashjummani

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/393e4e4496b34617b5fe2f112d2aec0e/artifacts
+end_time: 1736234822931
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: 393e4e4496b34617b5fe2f112d2aec0e
+run_name: handsome-perch-915
+run_uuid: 393e4e4496b34617b5fe2f112d2aec0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234822894
+status: 3
+tags: []
+user_id: jashjummani

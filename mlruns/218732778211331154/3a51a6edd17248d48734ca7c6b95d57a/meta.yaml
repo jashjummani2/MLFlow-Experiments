@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/3a51a6edd17248d48734ca7c6b95d57a/artifacts
+end_time: 1736234823010
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: 3a51a6edd17248d48734ca7c6b95d57a
+run_name: skillful-zebra-352
+run_uuid: 3a51a6edd17248d48734ca7c6b95d57a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234822975
+status: 3
+tags: []
+user_id: jashjummani

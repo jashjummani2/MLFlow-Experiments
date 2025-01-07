@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/692517622773011370/c0be7c3bb36c485eb203b36c8baa6e38/artifacts
+end_time: 1736193493655
+entry_point_name: ''
+experiment_id: '692517622773011370'
+lifecycle_stage: active
+run_id: c0be7c3bb36c485eb203b36c8baa6e38
+run_name: capable-kit-789
+run_uuid: c0be7c3bb36c485eb203b36c8baa6e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736193482028
+status: 3
+tags: []
+user_id: jashjummani

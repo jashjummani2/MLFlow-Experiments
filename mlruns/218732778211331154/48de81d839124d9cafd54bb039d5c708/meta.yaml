@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/48de81d839124d9cafd54bb039d5c708/artifacts
+end_time: 1736234760403
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: 48de81d839124d9cafd54bb039d5c708
+run_name: charming-shark-899
+run_uuid: 48de81d839124d9cafd54bb039d5c708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234744809
+status: 4
+tags: []
+user_id: jashjummani

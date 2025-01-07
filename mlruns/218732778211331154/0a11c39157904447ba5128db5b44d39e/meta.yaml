@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/0a11c39157904447ba5128db5b44d39e/artifacts
+end_time: 1736234823049
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: 0a11c39157904447ba5128db5b44d39e
+run_name: thundering-crane-562
+run_uuid: 0a11c39157904447ba5128db5b44d39e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234823015
+status: 3
+tags: []
+user_id: jashjummani

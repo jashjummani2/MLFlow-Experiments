@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/7c69e9e6deb547a6aaaff631c2d57a91/artifacts
+end_time: 1736234822851
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: 7c69e9e6deb547a6aaaff631c2d57a91
+run_name: bright-shrew-130
+run_uuid: 7c69e9e6deb547a6aaaff631c2d57a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234822819
+status: 3
+tags: []
+user_id: jashjummani

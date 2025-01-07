@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/fb24826f26264810a4798805e4f25037/artifacts
+end_time: 1736234760400
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: fb24826f26264810a4798805e4f25037
+run_name: incongruous-bat-387
+run_uuid: fb24826f26264810a4798805e4f25037
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234760377
+status: 4
+tags: []
+user_id: jashjummani

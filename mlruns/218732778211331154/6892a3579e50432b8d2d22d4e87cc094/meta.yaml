@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/6892a3579e50432b8d2d22d4e87cc094/artifacts
+end_time: 1736234822752
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: 6892a3579e50432b8d2d22d4e87cc094
+run_name: masked-finch-779
+run_uuid: 6892a3579e50432b8d2d22d4e87cc094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234822708
+status: 3
+tags: []
+user_id: jashjummani

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jashjummani/Desktop/MLOPs/MLFlow-Experiments/mlruns/218732778211331154/b0a2a1736b82483c86855689c0e9c91d/artifacts
+end_time: 1736234833862
+entry_point_name: ''
+experiment_id: '218732778211331154'
+lifecycle_stage: active
+run_id: b0a2a1736b82483c86855689c0e9c91d
+run_name: wise-frog-392
+run_uuid: b0a2a1736b82483c86855689c0e9c91d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736234807806
+status: 3
+tags: []
+user_id: jashjummani
